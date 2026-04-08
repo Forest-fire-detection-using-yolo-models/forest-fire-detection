@@ -4,7 +4,7 @@ A deep learning-based forest fire detection system using YOLO (You Only Look Onc
 
 ## 👥 Team Members
 
-This project is developed as a final year project by Computer Science Engineering (**Artificial Intelligence**) students from Narasaraopeta Engineering College.
+This project is developed as a final year project by CSE (**Artificial Intelligence**) students from Narasaraopeta Engineering College.
 
 ### Team Leader
 **T. Jai Prakash**
